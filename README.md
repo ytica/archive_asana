@@ -7,7 +7,7 @@ Create your Personal API Token (PAT):
 1. Go to User's "My Profile Settings" / "Apps" / "Manage Developer Apps"
 2. Click "Create New Personal Access Token"
 3. Describe token and click "Create"
-4. Copy PAT as a third argument of the script:
+4. Copy PAT as the second argument of the script:
 
         ./get_asana.rb  content/to/be/stored/into/dir  0/342gae523554534e3ab43cb423445
 
